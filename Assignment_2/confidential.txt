@@ -1,0 +1,3 @@
+Hi this my file for USS Asignment-2 named confidential.txt
+and this is the data in it.
+lets see if this user dominic who is a member of wheel group is able to write in this confidential.txt file
